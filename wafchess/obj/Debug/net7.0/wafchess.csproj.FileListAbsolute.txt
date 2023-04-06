@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\wafchess\wafchess\bin\Debug\net7.0\wafchess.exe
+C:\Users\Admin\source\repos\wafchess\wafchess\bin\Debug\net7.0\wafchess.deps.json
+C:\Users\Admin\source\repos\wafchess\wafchess\bin\Debug\net7.0\wafchess.runtimeconfig.json
+C:\Users\Admin\source\repos\wafchess\wafchess\bin\Debug\net7.0\wafchess.dll
+C:\Users\Admin\source\repos\wafchess\wafchess\bin\Debug\net7.0\wafchess.pdb
+C:\Users\Admin\source\repos\wafchess\wafchess\obj\Debug\net7.0\wafchess.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\wafchess\wafchess\obj\Debug\net7.0\wafchess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\wafchess\wafchess\obj\Debug\net7.0\wafchess.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\wafchess\wafchess\obj\Debug\net7.0\wafchess.AssemblyInfo.cs
+C:\Users\Admin\source\repos\wafchess\wafchess\obj\Debug\net7.0\wafchess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\wafchess\wafchess\obj\Debug\net7.0\wafchess.dll
+C:\Users\Admin\source\repos\wafchess\wafchess\obj\Debug\net7.0\refint\wafchess.dll
+C:\Users\Admin\source\repos\wafchess\wafchess\obj\Debug\net7.0\wafchess.pdb
+C:\Users\Admin\source\repos\wafchess\wafchess\obj\Debug\net7.0\wafchess.genruntimeconfig.cache
+C:\Users\Admin\source\repos\wafchess\wafchess\obj\Debug\net7.0\ref\wafchess.dll
